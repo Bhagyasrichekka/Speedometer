@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg {
+  background-color: #07080c;
+  height: 120vh;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.speedImage {
+  height: 300px;
+}
+
+.btn {
+  height: 36px;
+  width: 120px;
+  border-radius: 5px;
+  border-style: solid;
+  font-family: 'Roboto';
+}
+
+.accelerate-button {
+  color: white;
+  background-color: #0b69ff;
+}
+.break-button {
+  color: #94a3b8;
+  border-color: #94a3b8;
+  background-color: transparent;
+  margin-left: 10px;
+}
